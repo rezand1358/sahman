@@ -1,0 +1,92 @@
+﻿http://www.mysamplecode.com/2012/07/android-listview-custom-layout-filter.html
+http://programmerguru.com/android-tutorial/android-json-web-service-tutorial/
+http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-how-to-call-restful-webservice-in-android-part-3/
+https://www.google.com/design/spec/resources/color-palettes.html
+
+
+http://stackoverflow.com/questions/26067296/how-to-add-web-api-to-an-existing-asp-net-mvc-5-web-application-project
+http://stackoverflow.com/questions/11990036/how-to-add-web-api-to-an-existing-asp-net-mvc-4-web-application-project
+http://hintdesk.com/how-to-call-asp-net-web-api-service-from-android/
+
+
+http://icon-park.com/icon/loading-image-orange-2/
+http://www.iconexperience.com/o_collection/search/?q=about
+https://icons8.com/windows-10-icons/
+
+https://www.google.com/design/spec/style/color.html#color-color-palette
+http://www.mysamplecode.com/2012/07/android-listview-load-more-data.html
+
+
+===================================
+http://www.modaresanesharif.ac.ir/sanjeshDl.php?x=arshad94/key-answers/1148.pdf
+
+===========================
+===========================
+http://weblogs.asp.net/dwahlin/using-an-angularjs-factory-to-interact-with-a-restful-service
+===========================
+===========================
+
+=========================
+MAC OS X
+=========================
+https://www.youtube.com/watch?v=lpRJWZTMJx0
+https://www.youtube.com/watch?v=6CULacIhnfs
+https://www.youtube.com/watch?v=BoqD42wR2gk
+=========================
+=========================
+
+http://www.leniel.net/2013/04/manage-folders-and-files-in-your-aspnet-mvc-project-with-elfinder-net-file-manager.html#sthash.X6Wk8n3W.dpbs
+
+
+=====================================
+<p>شما داوطلبان گرامی می توانید دفترچه سؤالات و پاسخنامه کلیدی کنکور کارشناسی ارشد رشته مدیریت اجرایی را از این صفحه دریافت نمایید.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td style="background-color:rgb(204, 204, 204); border-color:rgb(0, 0, 0)">
+			<h4 style="text-align:center"><span style="color:#000000"><strong>مقطع</strong></span></h4>
+			</td>
+			<td style="background-color:rgb(204, 204, 204); border-color:rgb(0, 0, 0)">
+			<h4 style="text-align:center"><span style="color:#000000"><strong>نام رشته</strong></span></h4>
+			</td>
+			<td style="background-color:rgb(204, 204, 204); border-color:rgb(0, 0, 0)">
+			<h4 style="text-align:center"><span style="color:#000000"><strong>دفترچه سوال</strong></span></h4>
+			</td>
+			<td colspan="2" style="background-color:rgb(204, 204, 204); border-color:rgb(0, 0, 0)">
+			<h4 style="text-align:center"><span style="color:#000000"><strong>پاسخنامه کلیدی</strong></span></h4>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<pre style="text-align:center">
+<span style="color:#000000">کارشناسی ارشد</span></pre>
+
+			<p style="text-align:center"><span style="color:#000000">سال 1394</span></p>
+			</td>
+			<td>
+			<pre style="text-align:center">
+<span style="color:#000000">مدیریت اجرایی و MBA</span></pre>
+			</td>
+			<td>
+			<p style="text-align:center"><a href="http://modaresanesharif.ac.ir/sanjeshDl.php?x=arshad94/sanjesh/1148-1.pdf">دفترچه اول</a></p>
+
+			<p style="text-align:center"><a href="http://modaresanesharif.ac.ir/sanjeshDl.php?x=arshad94/sanjesh/1148-2.pdf">دفترچه دوم</a></p>
+			</td>
+			<td>
+			<p style="text-align:center"><a href="http://modaresanesharif.ac.ir/sanjeshDl.php?x=arshad94/key-answers/1148.pdf">پاسخنامه کلیدی</a>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="border: 1px solid rgb(0, 0, 0); padding: 10px 0; width: 500px; margin: 10px auto; text-align: center;"><a href="http://www.modaresanesharif.ac.ir/forum/106-مدیریت-اجرایی/17346-کنکور-94-تخمین-رتبه-MBA" style="font-size:18px;" target="_blank">جهت بیان نظرات خود درمورد کنکور کارشناسی ارشد 94 رشته مدیریت اجرایی و MBA اینجا کلیک کنید.</a></div>
+
+<p>&nbsp;</p>
+
+
+
+
+===============================================
+
+
